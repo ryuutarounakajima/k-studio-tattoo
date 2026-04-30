@@ -8,7 +8,7 @@ export function Hero() {
       id="home"
       className="min-h-screen flex items-center justify-center pt-16 relative bg-black"
       style={{
-        backgroundImage: 'url("src/assets/images/hero/masakado.jpg")', // ここに画像URLを追加
+        backgroundImage: 'url("/assets/images/hero/masakado.jpg")', // ここに画像URLを追加
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         
